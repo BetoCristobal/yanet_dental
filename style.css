@@ -1,0 +1,22 @@
+body{
+    line-height:2.5;
+}
+.navbar{
+    padding: 0;
+}
+.container-fluid{
+    background-color: rgb(206, 223, 255);
+}
+.navbar-brand{
+    display: flex;
+    position: absolute;
+}
+.nombre-logo{
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 1.5rem;
+}
+.navbar-collapse{
+    justify-content: center;
+    font-size: 1.5rem;
+}
